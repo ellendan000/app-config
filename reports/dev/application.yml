@@ -1,0 +1,3 @@
+azure:
+  keyvault:
+    authority-host: 'https://login.microsoftonline.com'
