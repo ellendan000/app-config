@@ -1,3 +1,7 @@
 azure:
   keyvault:
     authority-host: 'https://login.microsoftonline.com'
+
+spring:
+  datasource:
+    password: 123456
