@@ -1,6 +1,8 @@
 azure:
   keyvault:
     authority-host: 'https://login.microsoftonline.com'
+    client-key: '{cipher}cab12e71e6905a5ebb666469dcaaba113790fb6a1d8044514a919a2e6f61806df05a3f2c28a7fd6a79586b22e0270e5a2bc1ef3738f009e7b5207e707ed8052b'
+
 
 spring:
   datasource:
